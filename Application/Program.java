@@ -1,14 +1,14 @@
-package Classes.Reservation.Application;
+package ProgramaçãoOrientadaObjeto.Classes.Reservation.Application;
 
 import java.time.LocalDate;
 import java.util.Scanner;
 
-import Classes.Reservation.Model_Entities.Acomodacoes;
-import Classes.Reservation.Model_Entities.Reservation;
-import Classes.Reservation.Model_Entities.ReservationInfo;
-import Classes.Reservation.Model_Entities.ReservationList;
-import Classes.Reservation.Model_Enum.Rooms;
-import Classes.Reservation.Model_Services.GeneralFunctions;
+import ProgramaçãoOrientadaObjeto.Classes.Reservation.Model_Entities.Acomodacoes;
+import ProgramaçãoOrientadaObjeto.Classes.Reservation.Model_Entities.Reservation;
+import ProgramaçãoOrientadaObjeto.Classes.Reservation.Model_Entities.ReservationInfo;
+import ProgramaçãoOrientadaObjeto.Classes.Reservation.Model_Entities.ReservationList;
+import ProgramaçãoOrientadaObjeto.Classes.Reservation.Model_Enum.Rooms;
+import ProgramaçãoOrientadaObjeto.Classes.Reservation.Model_Services.GeneralFunctions;
 
 
 

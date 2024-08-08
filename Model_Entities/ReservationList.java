@@ -1,11 +1,11 @@
-package Classes.Reservation.Model_Entities;
+package ProgramaçãoOrientadaObjeto.Classes.Reservation.Model_Entities;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-import Classes.Reservation.Model_Enum.Rooms;
+import ProgramaçãoOrientadaObjeto.Classes.Reservation.Model_Enum.Rooms;
 
 public class ReservationList {
     

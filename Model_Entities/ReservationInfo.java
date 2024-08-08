@@ -1,4 +1,4 @@
-package Classes.Reservation.Model_Entities;
+package ProgramaçãoOrientadaObjeto.Classes.Reservation.Model_Entities;
 
 public class ReservationInfo {
     

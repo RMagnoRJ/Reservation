@@ -1,4 +1,4 @@
-package ProgramaçãoOrientadaObjeto.Classes.Reservation.Model_Exception;
+package Classes.Reservation.Model_Exception;
 
 public class GeneralException extends Exception {
     

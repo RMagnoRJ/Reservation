@@ -1,10 +1,10 @@
-package ProgramaçãoOrientadaObjeto.Classes.Reservation.Model_Entities;
+package Classes.Reservation.Model_Entities;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-import ProgramaçãoOrientadaObjeto.Classes.Reservation.Model_Enum.Rooms;
+import Classes.Reservation.Model_Enum.Rooms;
 
 public class Acomodacoes {
     
